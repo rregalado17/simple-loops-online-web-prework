@@ -48,12 +48,11 @@ end
 end
 
 def for_iterator(number_of_times)
-  # code your solution here using the "for" keyword
-for counter in 1..40 do
-  puts "The current number is #{counter}."
+for counter in 1..7 do
+  puts "Welcome to Flatiron School's Web Development Course!"
 end
   
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+
   
 end
 
