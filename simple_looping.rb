@@ -21,7 +21,10 @@ end
 
 
 def times_iterator(number_of_times)
-  
+  7.times do 
+  puts "Hiding 10 stolen jewels."
+  jewels_in_bag = jewels_in_bag - 10
+end
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
