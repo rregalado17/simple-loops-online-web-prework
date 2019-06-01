@@ -3,7 +3,11 @@
 def loop_iterator(number_of_times)
 loop do 
   number_of_times += 1 
-  
+  puts phrase = "Welcome to Flatiron School's Web Development Course!"
+    if number_of_times > 7
+    break
+  end
+end
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
@@ -13,11 +17,6 @@ loop do
   # Maybe we should keep count of the number of times we've puts out the 
   #  phrase and break when the counter hits the appropriate number...
   phrase "Welcome to Flatiron School's Web Development Course!"
-  puts phrase
-    if number_of_times > 7
-    break
-end
-end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
