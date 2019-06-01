@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-loop do 
+7.times do
 
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
