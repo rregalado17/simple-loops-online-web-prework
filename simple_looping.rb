@@ -1,8 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-7.times do
-
+loop do 
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
