@@ -5,7 +5,7 @@ loop do
   puts "Welcome to Flatiron School's Web Development Course!"
    if number_of_times > 7
     break
-
+  end
   end
 end
 
