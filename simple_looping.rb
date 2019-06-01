@@ -6,6 +6,7 @@ loop do
    if number_of_times == 7
     break
   end
+  end
 end
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
